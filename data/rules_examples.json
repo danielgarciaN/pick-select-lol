@@ -1,0 +1,12 @@
+[
+  {"condition_type": "enemy_pick", "condition_value": "238", "target_type": "champion", "target_value": "99", "weight": 3.0, "note": "Si enemigo Zed, priorizar Lissandra"},
+  {"condition_type": "team_need", "condition_value": "engage", "target_type": "champion", "target_value": "54", "weight": 2.5, "note": "Falta engage: Malphite"},
+  {"condition_type": "team_need", "condition_value": "engage", "target_type": "champion", "target_value": "113", "weight": 2.0, "note": "Falta engage: Sejuani"},
+  {"condition_type": "role", "condition_value": "mid", "target_type": "tag", "target_value": "ap", "weight": 1.0, "note": "En mid priorizar AP"},
+  {"condition_type": "enemy_pick", "condition_value": "157", "target_type": "champion", "target_value": "54", "weight": 1.5, "note": "Contra Yasuo, Malphite sólido"},
+  {"condition_type": "ally_pick", "condition_value": "222", "target_type": "champion", "target_value": "412", "weight": 2.5, "note": "Jinx+Thresh comfort duo"},
+  {"condition_type": "mode", "condition_value": "counter", "target_type": "tag", "target_value": "engage", "weight": 0.8, "note": "En counter prefiero engage"},
+  {"condition_type": "enemy_pick", "condition_value": "64", "target_type": "champion", "target_value": "113", "weight": 1.8, "note": "Lee Sin enemigo: Sejuani"},
+  {"condition_type": "banned", "condition_value": "54", "target_type": "champion", "target_value": "89", "weight": 1.2, "note": "Si Malphite baneado, Leona alternativa"},
+  {"condition_type": "role", "condition_value": "jungle", "target_type": "champion", "target_value": "64", "weight": -1.5, "note": "Evitar Lee Sin salvo práctica reciente"}
+]

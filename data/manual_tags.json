@@ -1,0 +1,17 @@
+{
+  "54": ["tank", "engage", "frontline", "ap"],
+  "113": ["tank", "engage", "frontline", "peel"],
+  "32": ["tank", "frontline", "ap"],
+  "99": ["mage", "ap", "peel", "waveclear"],
+  "238": ["assassin", "ad"],
+  "64": ["fighter", "ad", "engage"],
+  "120": ["mage", "ap", "waveclear"],
+  "157": ["fighter", "ad", "engage"],
+  "81": ["marksman", "ad", "poke"],
+  "222": ["marksman", "ad", "waveclear"],
+  "51": ["marksman", "ad", "poke"],
+  "89": ["tank", "engage", "frontline", "ap"],
+  "412": ["support", "engage", "peel"],
+  "267": ["support", "peel", "waveclear", "ap"],
+  "64": ["fighter", "ad", "engage"]
+}
